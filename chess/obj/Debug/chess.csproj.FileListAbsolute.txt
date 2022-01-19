@@ -1,0 +1,10 @@
+E:\proiecte\chess\obj\Debug\chess.csprojAssemblyReference.cache
+E:\proiecte\chess\obj\Debug\chess.Properties.Resources.resources
+E:\proiecte\chess\obj\Debug\chess.csproj.GenerateResource.cache
+E:\proiecte\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+E:\proiecte\chess\bin\Debug\chess.exe.config
+E:\proiecte\chess\bin\Debug\chess.exe
+E:\proiecte\chess\bin\Debug\chess.pdb
+E:\proiecte\chess\obj\Debug\chess.exe
+E:\proiecte\chess\obj\Debug\chess.pdb
+E:\proiecte\chess\obj\Debug\chess.Form1.resources
